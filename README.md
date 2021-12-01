@@ -4,7 +4,7 @@
 <head>
 <style>
 div {
-  background-image: url('C:\Users\User\Desktop\Pic.jpg');
+  background-image: url('Pic.jpg');
 }
 </style>
 </head>
